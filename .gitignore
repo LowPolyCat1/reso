@@ -1,0 +1,16 @@
+# Rust
+/target/
+
+# Node
+node_modules/
+dist/
+
+# Tauri
+apps/reso-app/src-tauri/gen/
+
+# Editors and OS
+.idea/
+.vscode/*
+!.vscode/extensions.json
+.DS_Store
+Thumbs.db
