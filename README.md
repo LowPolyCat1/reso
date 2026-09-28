@@ -37,6 +37,13 @@ reso/
 
 Each crate starts with its step of the roadmap.
 
+## Documents
+
+- [Architecture](docs/architecture.md)
+- [Roadmap](docs/roadmap.md)
+- [Decisions](docs/decisions.md)
+- [Provider rules](docs/provider-rules.md)
+
 ## License
 
 You can use reso under one of these licenses:
