@@ -43,6 +43,11 @@ Each crate starts with its step of the roadmap.
 - [Roadmap](docs/roadmap.md)
 - [Decisions](docs/decisions.md)
 - [Provider rules](docs/provider-rules.md)
+- [Commands](docs/readiness.md)
+- [Branch naming](docs/branch-naming.md)
+- [Stacked pull requests](docs/stacked-pull-requests.md)
+- [Subagents](docs/subagents.md)
+- [Testing](docs/testing.md)
 
 ## License
 
