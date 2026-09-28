@@ -109,11 +109,10 @@ workflow.
 
 Work on a branch. Do not commit to `main`.
 
-Use stacked pull requests for a feature. `docs/stacked-pull-requests.md` gives the
-workflow.
+If a pull request depends on another open pull request, use stacked pull requests.
+`docs/stacked-pull-requests.md` gives the workflow.
 
-A change that is not part of a feature targets `main` directly. A CI change, a
-document, and a dependency update are such changes.
+A change that depends on no open pull request targets `main` directly.
 
 Name the branch per `docs/branch-naming.md`.
 
