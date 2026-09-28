@@ -79,7 +79,7 @@ task as completed.
 
 ## Task wrap-up
 
-After you complete a task, open a pull request to `master` for the task.
+After you complete a task, open a pull request to `main` for the task.
 
 ## Errors
 
@@ -107,12 +107,12 @@ workflow.
 
 ## Git
 
-Work on a branch. Do not commit to `master`.
+Work on a branch. Do not commit to `main`.
 
 Use stacked pull requests for a feature. `docs/stacked-pull-requests.md` gives the
 workflow.
 
-A change that is not part of a feature targets `master` directly. A CI change, a
+A change that is not part of a feature targets `main` directly. A CI change, a
 document, and a dependency update are such changes.
 
 Name the branch per `docs/branch-naming.md`.
